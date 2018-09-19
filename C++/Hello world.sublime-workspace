@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mr",
+				"margin-left"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"navbar-",
+				"navbar-collapse"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bor",
+				"border-top-width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"bar",
+				"border-radius"
+			],
+			[
+				"На",
+				"Наташа"
+			],
+			[
+				"bac",
+				"background-blend-mode"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"img",
+				"border-image-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Mega/Разное/HTML/Начальный проэкт/Main.html",
+			"settings":
+			{
+				"buffer_size": 521,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Mega/Разное/HTML/Начальный проэкт/index.html",
+			"settings":
+			{
+				"buffer_size": 2591,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Hello world.cpp",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/Google Drive/Study/C++/Hello world.cpp",
+		"/E/Google Drive/Study/Arduino/Greenhouse/Code.cpp",
+		"/E/Mega/Учёба/Site/New/css/main.css",
+		"/E/Mega/Учёба/Site/New/Article/ArticleNata1.html",
+		"/E/Mega/Учёба/Site/New/Nata.html",
+		"/E/Mega/Разное/HTML/Сайт визитка/css/main.css",
+		"/E/Mega/Разное/HTML/Сайт визитка/index.html",
+		"/E/Mega/Разное/Marvel",
+		"/E/Mega/Учёба/Site/New/Yulia.html",
+		"/E/Mega/Учёба/Site/New/Tamara.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleYulia4.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleTamara2.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleYulia3.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleYulia2.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleYulia1.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleTamara3.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleTamara1.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleNata5.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleNata4.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleNata3.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleNata2.html",
+		"/E/Mega/Учёба/HTML/Сайт визитка/css/main.css",
+		"/E/Mega/Учёба/HTML/Сайт визитка/index.html",
+		"/E/Mega/Учёба/Site/New/Article/ArticleYulia5.html",
+		"/E/Mega/Учёба/Site/Old/Article/ArticleTamara3.html",
+		"/E/Mega/Учёба/Site/Old/css/MenuStyle.css",
+		"/E/Mega/Учёба/Site/Old/Article/ArticleNata1.html",
+		"/E/Mega/Учёба/Site/Old/Tamara.html",
+		"/E/Mega/Учёба/Site/Old/Nata.html",
+		"/E/Mega/Учёба/HTML/Начальный проэкт/css/main.css",
+		"/E/Mega/Учёба/HTML/Начальный проэкт/Main.html",
+		"/E/Mega/Учёба/Site/New/main.html",
+		"/E/Mega/Учёба/Site/New/css/Main.css",
+		"/E/Mega/Учёба/Site/New/Main.html",
+		"/E/Mega/Учёба/HTML/Main.html",
+		"/E/Mega/Учёба/HTML/Main",
+		"/E/Mega/Учёба/HTML/css/main.css",
+		"/E/Mega/Учёба/HTML/index.html",
+		"/E/main.css",
+		"/E/Mega/Учёба/Site/Old/Main.html",
+		"/E/Mega/Учёба/Site/css/MenuStyle.css",
+		"/E/Mega/Учёба/Site/css/Style.css",
+		"/E/Mega/Учёба/Site/Nata.html",
+		"/E/Mega/Учёба/Site/Article/ArticleNata1.html",
+		"/E/Mega/Учёба/Site/Main.html",
+		"/E/Mega/Учёба/HTML/css/Main.css",
+		"/E/Mega/Сайт/Main.html",
+		"/E/Mega/Сайт/Style.css",
+		"/E/Mega/Сайт/MenuStyle.css",
+		"/E/Mega/Сайт/Tamara.html",
+		"/E/Mega/Сайт/Yulia.html",
+		"/E/Mega/Сайт/Nata.html",
+		"/E/Mega/Сайт/ArticleTamara3.html",
+		"/E/Mega/Сайт/ArticleTamara2.html",
+		"/E/Mega/Сайт/ArticleTamara1.html",
+		"/E/Mega/Сайт/ArticleNata1.html",
+		"/E/Mega/Сайт/ArticleNata5.html",
+		"/E/Mega/Сайт/ArticleNata4.html",
+		"/E/Mega/Сайт/ArticleNata3.html",
+		"/E/Mega/Сайт/ArticleNata2.html",
+		"/E/Mega/Сайт/ArticleYulia1.html",
+		"/E/Mega/Сайт/ArticleYulia4.html",
+		"/E/Mega/Сайт/ArticleYulia3.html",
+		"/E/Mega/Сайт/ArticleYulia2.html",
+		"/E/Mega/Сайт/Article/ArticleNata2.html",
+		"/E/Mega/Сайт/Article/ArticleNata1.html",
+		"/E/Mega/Сайт/Article/ArticleNata5.html",
+		"/E/Mega/Сайт/Article/ArticleNata4.html",
+		"/E/Mega/Сайт/Article/ArticleNata3.html",
+		"/E/Mega/Сайт/Demo.css",
+		"/E/Mega/Сайт/1.css",
+		"/E/Mega/Сайт/Nata2.html",
+		"/E/Mega/Сайт/script.js",
+		"/E/Mega/Сайт/1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br>",
+			"88",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<p>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Mega/Разное/HTML/Начальный проэкт/Main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Mega/Разное/HTML/Начальный проэкт/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "Hello world.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Hello world.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
